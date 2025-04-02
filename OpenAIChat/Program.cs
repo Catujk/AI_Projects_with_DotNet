@@ -15,7 +15,7 @@ class Program
         var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
         if (string.IsNullOrEmpty(apiKey))
         {
-            Console.WriteLine("API key bulunamadı. Lütfen .env dosyasına OPENAI_API_KEY tanımlayın.");
+            Console.WriteLine("Missing API key. Make sure OPENAI_API_KEY is defined in your .env file.");
             return;
         }
 
