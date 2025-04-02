@@ -1,12 +1,23 @@
-﻿using Newtonsoft.Json;
+﻿using DotNetEnv;
+using Newtonsoft.Json;
 using System.Text;
 using System.Text.Json;
+using System.Text.Json.Nodes;
 
 class Program
 {
     static async Task Main(string[] args)
     {
-        var apiKey = "Your OpenAI Api Key";
+        // .env dosyasını yükle
+        Env.Load();
+
+        // Ortam değişkeninden API key'i al
+        var apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
+        if (string.IsNullOrEmpty(apiKey))
+        {
+            Console.WriteLine("API key bulunamadı. Lütfen .env dosyasına OPENAI_API_KEY tanımlayın.");
+            return;
+        }
 
         Console.Write("Question: ");
 
@@ -38,13 +49,13 @@ class Program
 
         try
         {
-            var response = await httpClient.PostAsync("https://api.openai.com/v1/completions", content);
+            var response = await httpClient.PostAsync("https://api.openai.com/v1/chat/completions", content);
             var responseString = await response.Content.ReadAsStringAsync();
 
             if (response.IsSuccessStatusCode)
             {
-                var responseJson = JsonConvert.DeserializeObject<JsonElement>(responseString);
-                var answer = responseJson.GetProperty("choices")[0].GetProperty("message").GetProperty("content").GetString();
+                var responseJson = JsonNode.Parse(responseString);
+                var answer = responseJson["choices"]?[0]?["message"]?["content"]?.ToString();
                 Console.WriteLine($"Answer: {answer}");
             }
             else
