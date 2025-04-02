@@ -20,11 +20,11 @@
 
 > ❗ Make sure your `.env` file is set to **Copy if newer** in the file properties.
 ## 💬 Example Chat
-![Screenshot_1](https://github.com/user-attachments/assets/9aaa552b-9c1f-456c-8f00-a575c5d218ce)
+![Screenshot](/screenshots/OpenAIChat/example4.png)
 ## 💬 Example Chat
-![Screenshot_2](https://github.com/user-attachments/assets/1dd72465-0764-436b-a3e7-54956d08cb09)
+![Screenshot](/screenshots/OpenAIChat/example3.png)
 ## 💬 Example Chat
-![Screenshot_3](https://github.com/user-attachments/assets/6578a812-cdf7-40ac-8053-189d6f7bde32)
+![Screenshot](/screenshots/OpenAIChat/example2.png)
 
 ## 🔗 Resources
 
