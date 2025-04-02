@@ -1,4 +1,10 @@
- ## Başlamadan Önce
+## 📂 Projects
+
+| Project         | Description                                      |
+|----------------|--------------------------------------------------|
+| [OpenAIChat](./OpenAIChat)
+
+## Başlamadan Önce
 
 1. `.env.example` dosyasını kopyalayarak `.env` dosyası oluşturun.
 2. Aşağıdaki gibi doldurun:
