@@ -1,18 +1,9 @@
 ## 📂 Projects
 
-- [OpenAIChat](./OpenAIChat)
+| Project         | Description                                      |
+|----------------|--------------------------------------------------|
+| [OpenAIChat](./OpenAIChat) | A CLI chat app using OpenAI's GPT-3.5 Turbo model |
 
-## Başlamadan Önce
-
-1. `.env.example` dosyasını kopyalayarak `.env` dosyası oluşturun.
-2. Aşağıdaki gibi doldurun:
-    ```env
-    OPENAI_API_KEY=sk-xxx...
-    ```
-3. Ardından projeyi başlatın:
-    ```
-    dotnet run
-    ```
 
 ## Before You Start
 
