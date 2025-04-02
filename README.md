@@ -1,8 +1,6 @@
 ## 📂 Projects
 
-| Project         | Description                                      |
-|----------------|--------------------------------------------------|
-| [OpenAIChat](./OpenAIChat)
+- [OpenAIChat](./OpenAIChat)
 
 ## Başlamadan Önce
 
