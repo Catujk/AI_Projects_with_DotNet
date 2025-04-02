@@ -3,7 +3,7 @@
 | Project         | Description                                      |
 |----------------|--------------------------------------------------|
 | [OpenAIChat](./OpenAIChat) | A CLI chat app using OpenAI's GPT-3.5 Turbo model |
-
+| [OpenAIWhisperAudioToText](./OpenAIWhisperAudioToText) | A console app that transcribes MP3 audio using OpenAI's Whisper API |
 
 ## Before You Start
 
