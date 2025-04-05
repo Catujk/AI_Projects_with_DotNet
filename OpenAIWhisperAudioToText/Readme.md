@@ -23,7 +23,7 @@
     ```
     
 ## 💬 Example Output
-![Screenshot_4]() 
+![Screenshot](/screenshots/OpenAIWhisperAudioToText/example1.png) 
 _Source: [YouTube](https://www.youtube.com/watch?v=-Mbr_ocqNeU)_
 ## 🔗 Resources
 - [OpenAI Whisper API Docs](https://platform.openai.com/docs/guides/speech-to-text)
