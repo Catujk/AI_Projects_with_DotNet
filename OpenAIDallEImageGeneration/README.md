@@ -23,29 +23,22 @@
 > ❗ Make sure your `.env` file is set to **Copy if newer** in the file properties.
 
 ## 💬 Example Chat
-![Screenshot](/screenshots/OpenAIDallEImageGeneration/DallE_1.png)
+![Prompt Screensho](/screenshots/OpenAIDallEImageGeneration/DallE_1.png)
+![Generated Image](../screenshots/OpenAIDallEImageGeneration/DallE_1img.png)
 ## 💬 Example Chat
-![Screenshot](/screenshots/OpenAIDallEImageGeneration/DallE_2.png)
+![Prompt Screensho](/screenshots/OpenAIDallEImageGeneration/DallE_2.png)
+![Generated Image](../screenshots/OpenAIDallEImageGeneration/DallE_2img.png)
 ## 💬 Example Chat
-![Screenshot](/screenshots/OpenAIDallEImageGeneration/DallE_3.png)
+![Prompt Screensho](/screenshots/OpenAIDallEImageGeneration/DallE_3.png)
+![Generated Image](../screenshots/OpenAIDallEImageGeneration/DallE_3img.png)
 ## 💬 Example Chat
-![Screenshot](/screenshots/OpenAIDallEImageGeneration/DallE_4.png)
+![Prompt Screensho](/screenshots/OpenAIDallEImageGeneration/DallE_4.png)
+![Generated Image](../screenshots/OpenAIDallEImageGeneration/DallE_4img.png)
 ## 💬 Example Chat
-![Screenshot](/screenshots/OpenAIDallEImageGeneration/DallE_5.png)
+![Prompt Screensho](/screenshots/OpenAIDallEImageGeneration/DallE_5.png)
+![Generated Image](../screenshots/OpenAIDallEImageGeneration/DallE_5img.png)
 
-<h3>🧹 A cat flying on a broomstick over a city at night</h3>
-<p><b>Prompt:</b> A cat flying on a broomstick over a city at night</p>
 
-<table>
-<tr>
-  <td><b>Terminal Output</b></td>
-  <td><b>Generated Image</b></td>
-</tr>
-<tr>
-  <td><img src="../screenshots/OpenAIDallEImageGeneration/DallE_1.png" width="400"/></td>
-  <td><img src="../screenshots/OpenAIDallEImageGeneration/DallE_1img.png" width="400"/></td>
-</tr>
-</table>
 ## 🔗 Resources
 
 - [OpenAI API Docs](https://platform.openai.com/docs)
