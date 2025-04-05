@@ -19,6 +19,7 @@
     ```
 
 > ❗ Make sure your `.env` file is set to **Copy if newer** in the file properties.
+
 ## 💬 Example Chat
 ![Screenshot](/screenshots/OpenAIChat/example4.png)
 ## 💬 Example Chat
