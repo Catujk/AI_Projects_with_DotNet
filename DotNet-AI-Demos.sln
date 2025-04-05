@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAIChat", "OpenAIChat\Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAIWhisperAudioToText", "OpenAIWhisperAudioToText\OpenAIWhisperAudioToText.csproj", "{6EDBD9EC-4669-428F-943D-19853F47865F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAIDallEImageGeneration", "OpenAIDallEImageGeneration\OpenAIDallEImageGeneration.csproj", "{D0EBAFB0-54D7-4F70-985A-F10B68FA9473}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6EDBD9EC-4669-428F-943D-19853F47865F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EDBD9EC-4669-428F-943D-19853F47865F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EDBD9EC-4669-428F-943D-19853F47865F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0EBAFB0-54D7-4F70-985A-F10B68FA9473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EBAFB0-54D7-4F70-985A-F10B68FA9473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EBAFB0-54D7-4F70-985A-F10B68FA9473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EBAFB0-54D7-4F70-985A-F10B68FA9473}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
