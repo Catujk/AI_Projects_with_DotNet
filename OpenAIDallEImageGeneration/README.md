@@ -37,9 +37,3 @@
 ## 💬 Example Chat
 ![Prompt Screensho](/screenshots/OpenAIDallEImageGeneration/DallE_5.png)
 ![Generated Image](../screenshots/OpenAIDallEImageGeneration/DallE_5img.png)
-
-
-## 🔗 Resources
-
-- [OpenAI API Docs](https://platform.openai.com/docs)
-- [DotNetEnv GitHub](https://github.com/tonerdo/dotnet-env)
