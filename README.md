@@ -2,9 +2,9 @@
 
 | Project         | Description                                      |
 |----------------|--------------------------------------------------|
-| [OpenAIChat](./OpenAIChat) | A CLI chat app using OpenAI's GPT-3.5 Turbo model |
-| [OpenAIWhisperAudioToText](./OpenAIWhisperAudioToText) | A console app that transcribes MP3 audio using OpenAI's Whisper API |
-| [OpenAIImageGeneration](./OpenAIImageGeneration) | A console app that generates images using OpenAI's DALL·E API             |
+| [OpenAI Chat](./OpenAIChat) | A CLI chat app using OpenAI's GPT-3.5 Turbo model |
+| [OpenAI Whisper Audio To Text](./OpenAIWhisperAudioToText) | A console app that transcribes MP3 audio using OpenAI's Whisper API |
+| [OpenAI Dall-E Image Generation](./OpenAIDallEImageGeneration) | A console app that generates images using OpenAI's DALL·E API |
 
 ## Before You Start
 
