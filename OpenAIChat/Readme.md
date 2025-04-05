@@ -26,8 +26,3 @@
 ![Screenshot](/screenshots/OpenAIChat/example3.png)
 ## 💬 Example Chat
 ![Screenshot](/screenshots/OpenAIChat/example2.png)
-
-## 🔗 Resources
-
-- [OpenAI API Docs](https://platform.openai.com/docs)
-- [DotNetEnv GitHub](https://github.com/tonerdo/dotnet-env)
