@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAIWhisperAudioToText", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAIDallEImageGeneration", "OpenAIDallEImageGeneration\OpenAIDallEImageGeneration.csproj", "{D0EBAFB0-54D7-4F70-985A-F10B68FA9473}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesseractOCRImageToText", "TesseractOCRImageToText\TesseractOCRImageToText.csproj", "{6FA029BB-9765-4C3C-9A0B-53C53CCDD6C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D0EBAFB0-54D7-4F70-985A-F10B68FA9473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0EBAFB0-54D7-4F70-985A-F10B68FA9473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0EBAFB0-54D7-4F70-985A-F10B68FA9473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA029BB-9765-4C3C-9A0B-53C53CCDD6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA029BB-9765-4C3C-9A0B-53C53CCDD6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA029BB-9765-4C3C-9A0B-53C53CCDD6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA029BB-9765-4C3C-9A0B-53C53CCDD6C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
