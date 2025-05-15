@@ -26,6 +26,3 @@
 ## 💬 Example Output
 ![Screenshot](/screenshots/OpenAIWhisperAudioToText/example1.png) 
 _Source: [YouTube](https://www.youtube.com/watch?v=-Mbr_ocqNeU)_
-## 🔗 Resources
-- [OpenAI Whisper API Docs](https://platform.openai.com/docs/guides/speech-to-text)
-- [DotNetEnv GitHub](https://github.com/tonerdo/dotnet-env)

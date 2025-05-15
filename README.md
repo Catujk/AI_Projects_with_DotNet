@@ -17,6 +17,13 @@
     ```bash
     dotnet run
     ```
+## 📚 Resources
+
+- [🔗 OpenAI API Documentation](https://platform.openai.com/docs)  
+  Official documentation for using various OpenAI APIs such as GPT, Whisper, DALL·E, and more.
+
+- [🔗 DotNetEnv GitHub](https://github.com/tonerdo/dotnet-env)  
+  A .NET library to load environment variables from a `.env` file.
 
 ## 📄 License
 
