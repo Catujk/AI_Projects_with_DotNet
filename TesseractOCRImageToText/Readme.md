@@ -33,8 +33,8 @@ dotnet restore
 dotnet build
 
 ## 💬 Example Chat
-![Image](TesseractOCRImageToText/images/bill-gates-sozleri.jpeg)
+![Image](../TesseractOCRImageToText/images/bill-gates-sozleri.jpeg)
 ![Output](../screenshots/TesseractOCRImageToText/example1.png)
 ## 💬 Example Chat
-![Image](TesseractOCRImageToText/images/jeff-bezos-sozleri.jpeg)
+![Image](../TesseractOCRImageToText/images/jeff-bezos-sozleri.jpeg)
 ![Output](../screenshots/TesseractOCRImageToText/example2.png)
