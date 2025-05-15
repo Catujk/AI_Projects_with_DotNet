@@ -8,7 +8,7 @@
 
 - 📦 Bundled `testdata` folder—no external installation required  
 - 🔄 Windows x64 / x86 native DLLs included via NuGet  
-- 🎯 Simple CLI interface: provide an image path, receive extracted text  
+- 🎯 Simple CLI interface: supply an image path, get extracted text  
 - 🌐 Multi-language support (English `eng`, Turkish `tur`)  
 
 ---
@@ -18,23 +18,15 @@
 ### Prerequisites
 
 - [.NET 6 SDK](https://dotnet.microsoft.com/download) or later  
-- No additional system installs required on Windows  
+- On Windows no further installs are needed  
 
-### Installation
+### Installation & Build
 
-# Clone the repository
+```bash
+# 1. Clone the repo
 git clone https://github.com/Catujk/TesseractOCRImageToText.git
 cd TesseractOCRImageToText
 
-# Restore dependencies
+# 2. Restore dependencies and build
 dotnet restore
-
-# Build the project
 dotnet build
-
-## 💬 Example Chat
-![Image](../TesseractOCRImageToText/images/bill-gates-sozleri.jpeg)
-![Output](../screenshots/TesseractOCRImageToText/example1.png)
-## 💬 Example Chat
-![Image](../TesseractOCRImageToText/images/jeff-bezos-sozleri.jpeg)
-![Output](../screenshots/TesseractOCRImageToText/example2.png)
