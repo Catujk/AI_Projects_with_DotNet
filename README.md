@@ -5,7 +5,7 @@
 | [OpenAI Chat](./OpenAIChat) | A CLI chat app using OpenAI's GPT-3.5 Turbo model |
 | [OpenAI Whisper Audio To Text](./OpenAIWhisperAudioToText) | A console app that transcribes MP3 audio using OpenAI's Whisper API |
 | [OpenAI Dall-E Image Generation](./OpenAIDallEImageGeneration) | A console app that generates images using OpenAI's DALL·E API |
-
+| [Tesseract OCR Image To Text](./TesseractOCRImageToText)    | A console app that performs OCR on images using the Tesseract OCR engine |
 ## Before You Start
 
 1. Copy the `.env.example` file and create a new `.env` file.
