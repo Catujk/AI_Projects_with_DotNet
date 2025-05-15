@@ -25,7 +25,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Catujk/TesseractOCRImageToText.git
+git clone https://github.com/Catujk/AI_Projects_with_DotNet.git
 cd TesseractOCRImageToText
 
 # 2. Restore & build
